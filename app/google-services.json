@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375913524371",
+    "firebase_url": "https://mycasa-b43c0.firebaseio.com",
+    "project_id": "mycasa-b43c0",
+    "storage_bucket": "mycasa-b43c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375913524371:android:04ed060b66ff2c76",
+        "android_client_info": {
+          "package_name": "com.example.pc_seven.mycas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375913524371-dcggnuo12ua3bm70h0gihd2578704s2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc_seven.mycas",
+            "certificate_hash": "9c40e63fa335151b0cdcd8a6b9abd2656e99a671"
+          }
+        },
+        {
+          "client_id": "375913524371-eq760a30fumuc7rpdigobvdg76k4k3cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaOAELjy0KYPJ5cwEMRwlDtlles8BVpcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375913524371-eq760a30fumuc7rpdigobvdg76k4k3cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
